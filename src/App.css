@@ -4,7 +4,7 @@ body {
 
 .App {
   text-align: center;
-  max-width: 728px;
+  max-width: 414px;
   margin: 0 auto;
 }
 
@@ -17,7 +17,7 @@ body {
   color: white;
   position: fixed;
   width: 100%;
-  max-width: 728px;
+  max-width: 414px;
   top: 0;
   display: flex;
   align-items: center;
@@ -71,7 +71,7 @@ form {
   bottom: 0;
   background-color: rgb(24, 23, 23);
   width: 100%;
-  max-width: 728px;
+  max-width: 414px;
   display: flex;
   font-size: 1.5rem;
 }
